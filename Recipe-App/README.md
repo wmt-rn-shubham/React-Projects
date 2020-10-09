@@ -1,4 +1,4 @@
-Recipe App
+# Recipe App
 
     Make Simple Recipy app by add your favorite app recipy name 
     and by clicking the name it display full recipy and photos 

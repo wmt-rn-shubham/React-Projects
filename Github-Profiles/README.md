@@ -1,4 +1,4 @@
-GitHub Profiles App
+# GitHub Profiles App
 
     Make a app that serch for the user find it and display and the detail profile project etc...
     

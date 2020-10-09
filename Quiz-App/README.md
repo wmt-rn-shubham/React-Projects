@@ -1,4 +1,4 @@
-Quiz App
+# Quiz App
 
     Make simple quize app whith 5 multiple choice quetion and display results of currect answer after submition
 

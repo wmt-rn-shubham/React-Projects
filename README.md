@@ -15,7 +15,7 @@ Let's Start
 1. Look for the issues which fits you and ask maintainers to assigned to you.
 2. Fork this repository.
 3. Clone your fork to your local development machine
-        git clone https://github.com/your-username/HacktoberfestHackDay2018.git
+        git clone https://github.com/WebMobTechnologies/React-Projects
 4. Create a branch for new Issue
         git checkout -b issue/branch-name
 5. Add your name in the following format in CONTRIBUTORS.md file
