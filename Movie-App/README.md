@@ -1,7 +1,11 @@
 Movie App
 
     Make A movie app that List the name of movies
-    Selecting one of them It shows full information and actors info
+    Selecting one of them It shows full information about movie,
+    actors info,
+    display imdb rating or
+    You can add search bar 
+    add movies to favorite list
 
 -   Design: https://uidesigndaily.com/posts/photoshop-movie-app-mobile-day-193
 -   list of movies
