@@ -1,10 +1,34 @@
 HacktoberfestHackDay2020
-Hacktoberfest Hack Day Celebration at WebMob Technologies.
+-------------------------
+
+Hacktoberfest 2020-Online Meetup at WebMob Technologies.
 
 Open Source Love
+-----------------
 
 What is Hacktoberfest?
-Hacktoberfest is a month-long celebration in open source community. It motivates open source contributors as well as first-time contributors. For the first time contributor, it's a bit hard or overwhelming but the fun part is "Everyone is welcome"
+Hacktoberfest "https://hacktoberfest.digitalocean.com/" is a month-long celebration in open source community. It motivates open source contributors as well as first-time contributors. For the first time contributor, it's a bit hard or overwhelming but the fun part is "Everyone is welcome"
 
+Let's Start
+------------
+
+1. Look for the issues which fits you and ask maintainers to assigned to you.
+2. Fork this repository.
+3. Clone your fork to your local development machine
+        git clone https://github.com/your-username/HacktoberfestHackDay2018.git
+4. Create a branch for new Issue
+        git checkout -b issue/branch-name
+5. Add your name in the following format in CONTRIBUTORS.md file
+        Name: [YOUR NAME](Github Profile Link)
+        Place: Your city
+        About: Short Introduction
+        Programming Language: Which programming language do you know?
+        Email: Your email
+
+6. Commit and push your changes to your fork.
+7. Create a pull request with a description.
+8. Wait for your PR review and merge.
+
+Spread the love by giving a star star to this repository.
 
 Made with heart by WebMob Technologies.
